@@ -13,7 +13,3 @@ Hello there! I'm Vincent0103, a passionate student at Racine High School in Pari
 ## Get in Touch
 
 📫 **Contact:** Feel free to connect with me via email or any socials i've linked on my profile.
-
-## My GitHub Stats
-
-I'm excited to showcase my journey and growth as a developer on this platform. Thanks for stopping by! 🐱‍👤
