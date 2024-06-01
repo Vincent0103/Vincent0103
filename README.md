@@ -4,8 +4,6 @@ Hello there! I'm Vincent0103, a passionate student at Racine High School in Pari
 
 ## About Me
 
-- 🌟 **Interests:** I'm a big fan of [Carti](https://genius.com/artists/Playboi-carti), my favorite rapper, whose music never fails to give me a euphoric vibe. 🎶
-
 - 🚀 **Learning Journey:** I'm on a journey to master web development, exploring the vast world of JavaScript and honing my skills in creating dynamic and engaging websites.
 
 ## Current Projects
