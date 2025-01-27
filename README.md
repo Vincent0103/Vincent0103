@@ -1,15 +1,17 @@
-# Welcome to Vincent0103's GitHub Profile! 👋
+# Welcome to Vincent0103's GitHub Profile! 🦊
 
-Hello there! I'm Vincent0103, a passionate student at Racine High School in Paris. 🎓 Currently, I'm diving into the world of web programming with JavaScript through The Odin Project course, eager to build exciting and interactive web applications.
+## Who am i? 😑
 
-## About Me
+Hello there! I'm Vincent, a passionate student pursuing an IT degree at the university of Orsay. For over 2 years, I dedicated myself onto learning to code, more specifically web development. Thank to [The Odin Project](https://www.theodinproject.com) for letting me this happen. \
+Currently, I built a couple dozen of programs, most of them are web applications all available open source on my GitHub repository down there!
 
-- 🚀 **Learning Journey:** I'm on a journey to master web development, exploring the vast world of JavaScript and honing my skills in creating dynamic and engaging websites.
+## My Goals ⚽
 
-## Current Projects
+My ultimate goal is to make off a living by making a start-up in a form of a web application or even mobile application and generate money out of it, even selling websites to potential customers would make me feel successful. \
+I'm going through college so I can further improve my skills into web development but most importantly, my skills into artificial intelligence, as A.I. is getting better and better at making programs, it is important for me to know how to handle this tool on my own advantage.
 
-🔧 **The Odin Project:** You'll find repositories related to my progress in The Odin Project course, where I'm working on projects to solidify my understanding of web development concepts.
+## Get in Touch 😁
 
-## Get in Touch
-
-📫 **Contact:** Feel free to connect with me via email or any socials i've linked on my profile.
+🧡 **Portfolio**: For a more immersive showcase of myself, have a look at my [portfolio](https://vinct.me)\
+🕴️ **LinkedIn**: I'm currently looking for a alternated training job [LinkedIn](https://www.linkedin.com/in/vincent-kanagasundaram-9a7193330/) \
+📫 **Mail:** My professional email dev@vinct.me
